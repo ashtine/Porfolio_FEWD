@@ -1,12 +1,18 @@
 /*Overall*/
+.clear {
+    clear: both;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: grey;
+}
 body {
     background-color: #c9a18a;
 }
-ol {
-    background-color: #f2e6d6;
+ol{
+    background-color: white;
     margin: 10px;
     padding: 30px;
-    border-radius: 50px;
+    border-radius: 30px;
 }
 /*Nav*/
 
@@ -24,6 +30,13 @@ ol {
     float: right;
 }
 /*MAIN*/
-h1 {
-    margin:50px;
+h1, h2{
+    margin:30px;
+}
+.fav {
+    margin-left: 0;
+    background-color: #f2e6d6;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 30px;
 }
