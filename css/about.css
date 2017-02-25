@@ -5,9 +5,7 @@
 h1, h2, h3, h4, h5, h6 {
     color: grey;
 }
-body {
-    background-color: #c9a18a;
-}
+
 ol{
     background-color: white;
     margin: 10px;
@@ -20,7 +18,8 @@ ol{
     background-color: #EFD7C7;
     border:none;
     padding: 20px;
-    margin: 0;
+    margin: 10px;
+    border-radius: 70px;
 }
 .navbar-brand {
     font-family: 'Pathway Gothic One', sans-serif;
@@ -35,8 +34,13 @@ h1, h2{
 }
 .fav {
     margin-left: 0;
-    background-color: #f2e6d6;
     margin: 10px;
     padding: 30px;
     border-radius: 30px;
+}
+img{
+    height: 350px;
+    float: right;
+    margin: 30px;
+
 }
