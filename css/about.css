@@ -1,1 +1,11 @@
-about.css
+/*Overall*/
+
+
+/*Nav*/
+
+.navbar-default {
+    background-color: #EFD7C7;
+    border:none;
+    padding: 20px;
+    margin: 0;
+}
