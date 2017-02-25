@@ -1,5 +1,7 @@
 /*Overall*/
-
+body {
+    background-color: #c9a18a;
+}
 
 /*Nav*/
 
@@ -8,4 +10,8 @@
     border:none;
     padding: 20px;
     margin: 0;
+}
+.navbar-brand {
+    font-family: 'Pathway Gothic One', sans-serif;
+    font-size: 40px;
 }
