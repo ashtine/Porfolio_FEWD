@@ -2,7 +2,12 @@
 body {
     background-color: #c9a18a;
 }
-
+ol {
+    background-color: #f2e6d6;
+    margin: 10px;
+    padding: 30px;
+    border-radius: 50px;
+}
 /*Nav*/
 
 .navbar-default {
@@ -14,4 +19,11 @@ body {
 .navbar-brand {
     font-family: 'Pathway Gothic One', sans-serif;
     font-size: 40px;
+}
+.nav.navbar-nav{
+    float: right;
+}
+/*MAIN*/
+h1 {
+    margin:50px;
 }
