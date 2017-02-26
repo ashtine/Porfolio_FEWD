@@ -2,6 +2,9 @@
 .clear {
     clear: both;
 }
+body {
+    font-family: 'helvetica', sans-serif;
+}
 h1, h2, h3, h4, h5, h6 {
     color: grey;
 }
@@ -15,14 +18,13 @@ ol{
 /*Nav*/
 
 .navbar-default {
-    background-color: #EFD7C7;
+    background-color: white;
     border:none;
     padding: 20px;
     margin: 10px;
     border-radius: 70px;
 }
 .navbar-brand {
-    font-family: 'Pathway Gothic One', sans-serif;
     font-size: 40px;
 }
 .nav.navbar-nav{
@@ -42,5 +44,10 @@ img{
     height: 350px;
     float: right;
     margin: 30px;
-
+}
+ul {
+    list-style-type: none;
+}
+ul>li {
+    display: inline-block;;
 }
