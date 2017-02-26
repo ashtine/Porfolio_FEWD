@@ -8,12 +8,6 @@ body {
 h1, h2, h3, h4, h5, h6 {
     color: grey;
 }
-
-ol{
-    background-color: white;
-    margin: 10px;
-    padding: 30px;
-}
 /*Nav*/
 
 .navbar-default {
@@ -50,10 +44,15 @@ img{
     max-width: 100%;
     text-align: center;
 }
-ul {
+ul.facts {
     list-style-type: none;
     text-align: center;
+    border: 1px solid black;
+    padding: 10px;
 }
-ul>li {
-
+#five {
+    background-color: #59596a;
+    color: white;
+    font-size: 16px;
+    font-weight: 300;
 }
