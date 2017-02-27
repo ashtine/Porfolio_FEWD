@@ -12,11 +12,7 @@
 body {
     font-family: 'helvetica', sans-serif;
     background:url(../images/me.jpg) no-repeat fixed center rgb(134,141,157);
-    background-size: cover;
-    height:300px;  
-}
-h1, h2, h3, h4, h5, h6 {
-    color: grey;
+    background-size: cover;  
 }
 /*Nav*/
 
@@ -26,8 +22,9 @@ h1{
     text-align: center;
     color: white;
 }
-.about-me {
+#about-me {
     text-align: center;
+    padding-top: 100px;
 }
 .fav {
     margin-left: 0;
@@ -46,15 +43,14 @@ ul.facts {
     padding: 10px;
     font-family: inherit;
 }
-#five {
-    background-color: rgba(89,89,106,0.7);
+.five {
+    background-color: rgba(89,89,106,0.6);
     color: white;
     font-size: 16px;
     font-weight: 300;
     border-radius: 10px;
 }
-#bio {
-    margin: 0 auto;
-    margin: 30px;
+.bio {
     font-size: 24px;
+    padding: 10px;
 }
