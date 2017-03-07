@@ -13,6 +13,9 @@ div .card {
     width: 100%;
     text-align: center;
 }
+.card-group {
+    text-align: center;
+}
 
 /*Desktop*/
 
