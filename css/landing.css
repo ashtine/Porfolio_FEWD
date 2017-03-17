@@ -1,1 +1,29 @@
-landing.css
+.center {
+    margin: 0 auto;
+}
+.light {
+    font-weight: 300;
+}
+ body {
+    font-family: 'helvetica', sans-serif;
+    background:url(../images/mtns.png) no-repeat fixed center;
+    background-size: cover;
+ }
+ h1, h2{
+    text-align: center;
+    color:white;
+    font-weight: 800;
+    font-size: 100px;
+    padding-top: 150px;
+ }
+ h2{
+    font-size: 50px;
+    padding-top: 0;
+ }
+
+
+
+
+ @media only screen and (min-width: 768px){
+
+ }

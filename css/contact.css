@@ -1,0 +1,10 @@
+/*OVERALL*/
+
+
+
+/*Main*/
+body {
+    font-family: 'helvetica', sans-serif;
+    background:url(../images/contact.jpg) no-repeat fixed center;
+    background-size: cover;
+}

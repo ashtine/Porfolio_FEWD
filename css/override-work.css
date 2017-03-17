@@ -2,6 +2,7 @@
     background-color: white;
     border:none;
     padding: 20px;
+    opacity: .7;
 }
 .navbar-brand {
     font-size: 40px;
@@ -9,21 +10,11 @@
 .nav.navbar-nav{
     float: right;
 }
-div .card {
-    width: 100%;
-    text-align: center;
-}
-.card-group {
-    text-align: center;
-}
+
 
 /*Desktop*/
 
 @media only screen and (min-width: 768px) {
     
-div .card {
-    display: inline-block;
-    width: 30%;
-    text-align: center;
-}
+
 }
