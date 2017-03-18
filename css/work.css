@@ -52,8 +52,9 @@ header {
 }
  /*PROJECTS*/
 img {
-    flex: auto;
+    flex: 0 0 400px;
     height: 400px;
+    width: 400px;
     background-size: cover;
 }
 
