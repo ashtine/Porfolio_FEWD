@@ -9,6 +9,19 @@
     font-size: 30px;
     font-weight: 600;
 }
+.fade-in {
+    animation: fadeIn 8s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity:1;
+    }
+}
 body {
     font-family: 'helvetica', sans-serif;
     background:url(../images/me.jpg) no-repeat fixed center rgb(134,141,157);
