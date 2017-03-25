@@ -32,14 +32,6 @@ header {
     flex-wrap: wrap;
         /*also nowrap, wrap-reverse*/
 }
-
-.noshrink {
-    min-width: 80%;
-}
-.child-container {
-    flex: 1 100px;
-    height: 100px;
-}
 .work-container {
     margin: 20px;
     flex: 0 0 400px;
