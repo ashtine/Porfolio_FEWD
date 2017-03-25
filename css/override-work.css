@@ -8,13 +8,15 @@
     font-size: 40px;
 }
 .nav.navbar-nav{
-    float: right;
+    text-align: center;
+    }   
+.navbar {
+    margin-bottom: 0;
 }
 
-
-/*Desktop*/
-
-@media only screen and (min-width: 768px) {
-    
+@media only screen and (min-width: 768px){
+    .nav.navbar-nav{
+    float: right;
+    }   
 
 }
