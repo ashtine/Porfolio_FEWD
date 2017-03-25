@@ -17,7 +17,7 @@ function populatePage() {
     },
     {
         display: "inherit",
-        opacity: 1, ease:Elastic.easeOut,
+        opacity: 1, ease:Elastic,
     }, 1
     );
 }
