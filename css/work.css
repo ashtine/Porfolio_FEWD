@@ -43,7 +43,7 @@ header {
 }
 .work-container {
     background-color: pink;
-    margin: 5px;
+    margin: 20px;
     flex: 0 0 400px;
     height: 400px;
 }
