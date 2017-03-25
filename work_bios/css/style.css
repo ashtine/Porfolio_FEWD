@@ -29,7 +29,13 @@ a:hover {
     text-decoration: none;
     color:rgba(89,89,106,0.6);
 }
+#content {
+    text-align: center;
+}
 div img{
-    width: 50%;
+    width: 70%;
+    text-align: center;
+}
+section {
     text-align: center;
 }
