@@ -1,0 +1,19 @@
+.center {
+    margin: 0 auto;
+}
+.light {
+    font-weight: 300;
+}
+.fade-in {
+    animation: fadeIn 8s;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity:1;
+    }
+}
