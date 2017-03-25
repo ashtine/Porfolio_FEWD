@@ -3,6 +3,7 @@
     background-color: white;
     border:none;
     padding: 20px;
+    opacity: .7;
 }
 .navbar-brand {
     font-size: 40px;
