@@ -20,3 +20,13 @@ body {
     background:url(../images/contact.jpg) no-repeat fixed center;
     background-size: cover;
 }
+div {
+    text-align: center;
+}
+h1 {
+    color: white;
+}
+.handles img {
+    width: 100px;
+    margin: 20px;
+}
