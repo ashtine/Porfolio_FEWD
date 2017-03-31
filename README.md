@@ -1,4 +1,4 @@
-# Porfolio_FEWD
+# Portfolio FEWD
 A work in-progress of my portfolio/web development &amp; design
 Portfolio Overview
 ===========
