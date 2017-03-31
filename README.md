@@ -6,7 +6,7 @@ Ashtine's portfolio is a display of some visual design from college, and recent 
 
 ----------
 
-####Technology used: 
+#### Technology used: 
 * Sublime
 *  Git/Github
 * GreenSock
@@ -18,14 +18,14 @@ Ashtine's portfolio is a display of some visual design from college, and recent 
 ----------
 #### Code used: 
 * HTML
-*  CSS
+* CSS
 * Javascript
 * jQuery
 * TweenMax
 
 ----------
 
-####User Story Example
+#### User Story Example
 * As a user, when I arrive I see the Navigation bar, Title, and background images of the website.
 * As a user I click the "About" link.
 * As a user I see the quote, biography and background image on the page.
