@@ -1,5 +1,4 @@
-# Portfolio FEWD
-A work in-progress of my portfolio/web development &amp; design
+
 Portfolio Overview
 ===========
 Ashtine's portfolio is a display of some visual design from college, and recent front end development. This page is meant to showcase skill and design in development and visual design. Ashtine Tapanes is the sole creator and developer of the content. 
@@ -12,7 +11,7 @@ Ashtine's portfolio is a display of some visual design from college, and recent 
 * GreenSock
 * Bootstrap
 * Slack
-*  Developer tools
+* Developer tools
 * Deployment: What I used with clickable link
 
 ----------
