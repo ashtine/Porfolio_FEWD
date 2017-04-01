@@ -7,9 +7,9 @@
 }
 .big {
     font-size: 16px;
-    font-weight: 400;
+    font-weight: 300;
     text-align: center;
-    color: rgba(89,89,106,0.6);
+    color: rgba(89,89,106,0.8);
     margin: 50px;
     padding-left: 20px;
     padding-right: 20px;
@@ -34,6 +34,17 @@ header {
         flex froggy for visual on how those work*/
     flex-wrap: wrap;
         /*also nowrap, wrap-reverse*/
+}
+.download p {
+    align-content: center;
+    text-align: center;
+    color: purple;
+    font-size: 16px;
+    font-weight: 800;
+}
+p:hover{
+    color: none;
+    text-decoration: none;
 }
 .work-container {
     margin: 20px;
