@@ -2,14 +2,18 @@
     background-color: white;
     border:none;
     padding: 20px;
-    opacity: .7;
+    color: black;
 }
 .navbar-brand {
     font-size: 40px;
+    color: black;
 }
 .nav.navbar-nav{
     text-align: center;
-    }   
+    } 
+.navbar-default .navbar-brand  {
+    color: black;
+}
 .navbar {
     margin-bottom: 0;
 }
