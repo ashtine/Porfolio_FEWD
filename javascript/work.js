@@ -21,8 +21,6 @@ function populatePage() {
 }
 
 populatePage();
-
-
 // TweenMax.command(".class-name", 
 //          #,  
 //          {css: "style2", css: "style1"}
