@@ -1,24 +1,14 @@
 /*OVERALL*/
-.fade-in {
-    animation: fadeIn 4s;
-}
+
 .light {
     font-weight: 300;
 }
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
 
-    to {
-        opacity:1;
-    }
-}
 /*Main*/
 body {
     font-family: 'helvetica', sans-serif;
-    background:url(../images/contact.jpg) no-repeat fixed center;
-    background-size: cover;
+ /*   background:url(../images/contact.jpg) no-repeat fixed center;
+    background-size: cover;*/
 }
 div {
     text-align: center;
