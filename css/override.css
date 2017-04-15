@@ -1,5 +1,5 @@
 .navbar-default {
-    background-color: white;
+    background-color: transparent;
     border:none;
     padding: 20px;
     color: black;
@@ -15,7 +15,10 @@
 }
 .navbar-default .navbar-nav>li>a  {
     color: black;
-    font-family: 'Nothing You Could Do', cursive;
+    font-family: 'Nothing You Could Do', cursive;  
+}
+.navbar-default .navbar-nav>li>a:hover {
+    text-decoration: underline;
 }
 .navbar {
     margin-bottom: 0;

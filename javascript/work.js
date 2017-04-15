@@ -1,5 +1,3 @@
-console.log("Hello World from main.js!");
-
 var allContainers = document.querySelectorAll(".work-container");
 
 // function populateImages() {
