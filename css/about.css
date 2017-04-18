@@ -42,3 +42,6 @@ body {
     margin: 40px;
     background-color: yellow;
 }
+footer {
+    position: relative;
+}
