@@ -40,7 +40,9 @@ body {
     flex-wrap: wrap;
     flex: 0 0 200px;
     margin: 40px;
-    background-color: yellow;
+    padding: 30px;
+    border-radius: 20px;
+    background-color:rgba(128,128,128,.5);
 }
 footer {
     position: relative;
