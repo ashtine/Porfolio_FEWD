@@ -44,7 +44,7 @@ img {
 .child{
     font-size: 16px;
     flex-wrap: wrap;
-    flex: 0 0 300px;
+    flex: 0 0 400px;
     margin: 40px;
     padding: 30px;
     border-radius: 20px;
@@ -57,4 +57,15 @@ h1 {
 }
 footer {
     position: relative;
+}
+@media only screen and (min-width: 768px) {
+    footer {
+        position: relative;
+    }
+}
+
+@media only screen and (min-width: 1080px) {
+    footer {
+        position: absolute;
+    }
 }
