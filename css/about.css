@@ -37,12 +37,17 @@ body {
     justify-content: center;
 }
 .child p{
+    font-size: 18px;
     flex-wrap: wrap;
     flex: 0 0 200px;
     margin: 40px;
     padding: 30px;
     border-radius: 20px;
     background-color:rgba(128,128,128,.5);
+}
+h1 {
+    display: flex;
+    justify-content: center;
 }
 footer {
     position: relative;
