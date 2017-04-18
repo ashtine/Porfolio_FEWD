@@ -35,16 +35,7 @@
     font-size: 20px;
     padding-top: 0;
  }
- footer {
-    background-color: black;
-    color: white;
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    padding: 1rem;
-    text-align: center;
- }
+ 
 
  @media only screen and (min-width: 768px){
 h1 {
