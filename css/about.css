@@ -24,50 +24,21 @@
     }
 }
 body {
-    font-family: 'helvetica', sans-serif;
-    background:url(../images/me.jpg) no-repeat fixed center rgb(134,141,157);
-    background-size: cover;  
+       font-family: 'helvetica', sans-serif;
+       background:url(../images/background2.png) no-repeat fixed center;
+       background-size: cover;
 }
 /*Nav*/
 
 /*MAIN*/
-#about-me {
-    text-align: center;
+#main{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
-.fav {
-    margin-left: 0;
-    margin: 10px;
-    padding: 30px;
-    border-radius: 30px;
+.child p{
+    flex-wrap: wrap;
+    flex: 0 0 200px;
+    margin: 40px;
+    background-color: yellow;
 }
-img{
-    height: auto;
-    max-width: 100%;
-    text-align: center;
-}
-ul.facts {
-    list-style-type: none;
-    text-align: center;
-    padding: 10px;
-    font-family: inherit;
-}
-.jazz {
-    background-color: rgba(89,89,106,0.6);
-    color: white;
-    font-size: 18px;
-    font-weight: 300;
-    border-radius: 10px;
-}
-.col-lg-3 {
-    margin-top:20px;
-}
-blockquote {
-    border-left: none;
-}
-
-@media only screen and (min-width: 768px){
-    blockquote {
-        margin-top: 300px;
-        color: white;
-    }
- }
