@@ -58,14 +58,9 @@ h1 {
 footer {
     position: relative;
 }
-@media only screen and (min-width: 768px) {
-    footer {
-        position: relative;
-    }
-}
 
-@media only screen and (min-width: 1080px) {
+/*@media only screen and (min-width: 1080px) {
     footer {
         position: absolute;
     }
-}
+}*/
