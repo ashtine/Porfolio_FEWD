@@ -20,12 +20,21 @@
 
  body {
     font-family: 'helvetica', sans-serif;
+<<<<<<< HEAD
+/*    background:url(../images/mtns.png) no-repeat fixed center;
+    background-size: cover;*/
+ }
+ h1, h2{
+    text-align: center;
+    color:black;
+=======
     background:url(../images/code_background.png) no-repeat fixed center;
     background-size: cover;
  }
  h1, h2{
     text-align: center;
 /*    color:white;*/
+>>>>>>> master
     font-weight: 800;
     font-size: 50px;
     padding-top: 100px;
