@@ -1,5 +1,3 @@
-console.log("Hello World from main.js!");
-
 var allContainers = document.querySelectorAll(".work-container");
 
 // function populateImages() {
@@ -23,8 +21,6 @@ function populatePage() {
 }
 
 populatePage();
-
-
 // TweenMax.command(".class-name", 
 //          #,  
 //          {css: "style2", css: "style1"}
