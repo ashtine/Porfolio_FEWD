@@ -20,12 +20,12 @@
 
  body {
     font-family: 'helvetica', sans-serif;
-    background:url(../images/mtns.png) no-repeat fixed center;
-    background-size: cover;
+/*    background:url(../images/mtns.png) no-repeat fixed center;
+    background-size: cover;*/
  }
  h1, h2{
     text-align: center;
-    color:white;
+    color:black;
     font-weight: 800;
     font-size: 100px;
     padding-top: 150px;
