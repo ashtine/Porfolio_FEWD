@@ -41,6 +41,10 @@ img {
     background-size: cover;
     border-radius: 20px;
 }
+.wide {
+    width: 500px;
+    margin-right: 20px;
+}
 .child{
     font-size: 16px;
     flex-wrap: wrap;
@@ -55,9 +59,9 @@ h1 {
     display: flex;
     justify-content: center;
 }
-/*footer {
+footer {
     position: relative;
-}*/
+}
 
 /*@media only screen and (min-width: 1080px) {
     footer {
