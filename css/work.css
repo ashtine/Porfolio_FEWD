@@ -47,18 +47,19 @@ p:hover{
 }
 .work-container {
     margin: 20px;
-    flex: 0 0 400px;
-    height: 400px;
+    flex: 0 0 300px;
+    width: 100%;
+    
 }
 .work-container {
     display: none;
 }
  /*PROJECTS*/
 img {
-    flex: 0 0 400px;
-    height: 400px;
-    width: 400px;
+    flex: 0 0 300px;
+    width: 100%;
     background-size: cover;
+    overflow: hidden;
 }
 footer {
     position: relative;

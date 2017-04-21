@@ -31,11 +31,12 @@
     padding-top: 100px;
  }
  h2{
-    font-family: 'Nothing You Could Do', cursive;
     font-size: 20px;
     padding-top: 0;
  }
- 
+ h1 {
+    font-family: 'Nothing You Could Do', cursive;
+ }
 
  @media only screen and (min-width: 768px){
 h1 {

@@ -17,6 +17,7 @@
     }
 }
 body {
+        width: 100%;
        font-family: 'helvetica', sans-serif;
        background:url(../images/background2.png) no-repeat fixed center;
        background-size: cover;
