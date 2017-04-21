@@ -17,6 +17,7 @@
     }
 }
 body {
+        width: 100%;
        font-family: 'helvetica', sans-serif;
        background:url(../images/background2.png) no-repeat fixed center;
        background-size: cover;
@@ -47,9 +48,9 @@ img {
     flex-wrap: wrap;
     flex: 0 0 400px;
     margin: 40px;
-    padding: 30px;
+    padding: 20px;
     border-radius: 20px;
-    background-color:rgba(128,128,128,.5);
+    background-color:white;
 }
 
 h1 {
