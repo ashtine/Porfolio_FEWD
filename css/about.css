@@ -48,9 +48,9 @@ img {
     flex-wrap: wrap;
     flex: 0 0 400px;
     margin: 40px;
-    padding: 30px;
+    padding: 20px;
     border-radius: 20px;
-    background-color:rgba(128,128,128,.5);
+    background-color:white;
 }
 
 h1 {
