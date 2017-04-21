@@ -48,8 +48,7 @@ p:hover{
 .work-container {
     margin: 20px;
     flex: 0 0 300px;
-    width: 100%;
-    
+    width: 100%;   
 }
 .work-container {
     display: none;
